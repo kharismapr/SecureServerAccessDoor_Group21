@@ -16,6 +16,9 @@ Proyek Smart Server Access Door ini adalah sebuah demonstrasi yang sukses mengen
 
 ## Referensi
 [1] Espressif Systems, “ESP32 Series Datasheet,” Version 5.2, Espressif Systems, Shanghai, China, 2025. [Online]. Available: https://documentation.espressif.com/esp32_datasheet_en.pdf. [Accessed: Dec. 8, 2025].
+
 [2] Blynk Team, “Blynk Documentation: Getting Started with ESP32,” Blynk IoT Platform Documentation, [Online]. Available: https://docs.blynk.io/en/getting-started/what-do-i-need. [Accessed: Dec. 8, 2025].
+
 [3] R. N. Tutorials, “Security Access using MFRC522 RFID Reader with Arduino,” Random Nerd Tutorials, [Online]. Available: https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/. [Accessed: Dec. 8, 2025].
+
 [4] C. Basics, “How to Set Up the DHT11 Humidity Sensor on an Arduino,” Circuit Basics, [Online]. Available: https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/. [Accessed: Dec. 8, 2025].
